@@ -1,0 +1,104 @@
+[
+    {
+        "_id": "643010e0f5a7e52ce1e8fa65",
+        "name": "Jane Doe",
+        "details": "Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like). It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "rating": 3
+    },
+    {
+        "_id": "643010f9f5a7e52ce1e8fa66",
+        "name": "John Doe",
+        "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "rating": 2
+    },
+    {
+        "_id": "6430110af5a7e52ce1e8fa67",
+        "name": "MJ Doe",
+        "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "rating": 5
+    },
+    {
+        "_id": "64301123f5a7e52ce1e8fa68",
+        "name": "Sarah Smith",
+        "details": "I found the product to be incredibly useful and easy to use. The interface is intuitive, and it has all the features I need. Highly recommend it!",
+        "rating": 4
+    },
+    {
+        "_id": "6430113af5a7e52ce1e8fa69",
+        "name": "Robert Johnson",
+        "details": "This is by far the best service I have ever used. The customer support is outstanding, and the product itself is top-notch. I couldn't be happier!",
+        "rating": 5
+    },
+    {
+        "_id": "6430114bf5a7e52ce1e8fa70",
+        "name": "Emily Davis",
+        "details": "The product offers great value for money. I'm impressed with the quality and functionality it provides at such an affordable price.",
+        "rating": 4
+    },
+    {
+        "_id": "6430115cf5a7e52ce1e8fa71",
+        "name": "Michael Brown",
+        "details": "I've been using this product for several months now, and it has exceeded my expectations. Great job!",
+        "rating": 5
+    },
+    {
+        "_id": "6430116df5a7e52ce1e8fa72",
+        "name": "Jessica Williams",
+        "details": "The product does what it promises, but I feel like it could use some improvements in certain areas.",
+        "rating": 3
+    },
+    {
+        "_id": "6430117ef5a7e52ce1e8fa73",
+        "name": "David Miller",
+        "details": "Absolutely love it! The team behind it really put a lot of thought into the design and functionality.",
+        "rating": 5
+    },
+    {
+        "_id": "6430118ff5a7e52ce1e8fa74",
+        "name": "Sophia Johnson",
+        "details": "It's a decent product, but I had some issues with customer support. They were slow to respond.",
+        "rating": 2
+    },
+    {
+        "_id": "6430119ff5a7e52ce1e8fa75",
+        "name": "Daniel Wilson",
+        "details": "Good product with a few minor issues. Customer support is helpful but took a while to solve my problem.",
+        "rating": 4
+    },
+    {
+        "_id": "643011aff5a7e52ce1e8fa76",
+        "name": "Sophia Robinson",
+        "details": "Amazing experience! I will definitely recommend this to my friends and family.",
+        "rating": 5
+    },
+    {
+        "_id": "643011bff5a7e52ce1e8fa77",
+        "name": "Chris Martinez",
+        "details": "Not bad, but there are better options out there for the same price.",
+        "rating": 3
+    },
+    {
+        "_id": "643011cff5a7e52ce1e8fa78",
+        "name": "Amanda Thompson",
+        "details": "The product is fairly easy to use, but it took me some time to get familiar with all the features.",
+        "rating": 3
+    },
+    {
+        "_id": "643011dff5a7e52ce1e8fa79",
+        "name": "Matthew White",
+        "details": "Top-notch quality! I can't imagine going back to using anything else.",
+        "rating": 5
+    },
+    {
+        "_id": "643011eff5a7e52ce1e8fa80",
+        "name": "Olivia Harris",
+        "details": "Pretty decent, but it lacks some important features that I was looking for.",
+        "rating": 3
+    },
+    {
+        "_id": "643011fff5a7e52ce1e8fa81",
+        "name": "Joshua Lewis",
+        "details": "Excellent product! Really helped me stay organized and on top of my tasks.",
+        "rating": 4
+    }
+]

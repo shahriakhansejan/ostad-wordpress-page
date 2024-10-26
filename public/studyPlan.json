@@ -1,0 +1,245 @@
+[
+    {
+        "id": 1,
+        "name": "HTML Introduction",
+        "des": "If you are a beginner, be sure to check out these video resources and join the live batch. Victory is yours!",
+        "color": "blue-500",
+        "video": [
+            { "video1": "HTML Part 1", "time": "5" },
+            { "video1": "HTML Part 2", "time": "6" },
+            { "video1": "HTML Part 3", "time": "4" },
+            { "video1": "HTML Part 4", "time": "7" },
+            { "video1": "HTML Part 5", "time": "5" },
+            { "video1": "HTML Part 6", "time": "3" }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "CSS Basics",
+        "des": "Detailed introduction to the basic concepts of CSS. Start today!",
+        "color": "green-500",
+        "video": [
+            { "video1": "CSS Basics Part 1", "time": "5" },
+            { "video1": "CSS Basics Part 2", "time": "6" },
+            { "video1": "CSS Basics Part 3", "time": "4" },
+            { "video1": "CSS Basics Part 4", "time": "3" },
+            { "video1": "CSS Basics Part 5", "time": "5" }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "JavaScript Introduction",
+        "des": "Introduction to JavaScript and basic concepts.",
+        "color": "yellow-500",
+        "video": [
+            { "video1": "JavaScript Part 1", "time": "7" },
+            { "video1": "JavaScript Part 2", "time": "6" },
+            { "video1": "JavaScript Part 3", "time": "5" },
+            { "video1": "JavaScript Part 4", "time": "4" }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "CSS Flexbox",
+        "des": "Learn how to layout content using CSS Flexbox.",
+        "color": "green-500",
+        "video": [
+            { "video1": "Flexbox Part 1", "time": "6" },
+            { "video1": "Flexbox Part 2", "time": "7" },
+            { "video1": "Flexbox Part 3", "time": "4" }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "CSS Grid",
+        "des": "Learn to design layouts using CSS Grid.",
+        "color": "blue-500",
+        "video": [
+            { "video1": "Grid Part 1", "time": "5" },
+            { "video1": "Grid Part 2", "time": "6" },
+            { "video1": "Grid Part 3", "time": "7" }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Advanced JavaScript",
+        "des": "Discussion on advanced JavaScript concepts.",
+        "color": "orange-500",
+        "video": [
+            { "video1": "Advanced JavaScript Part 1", "time": "8" },
+            { "video1": "Advanced JavaScript Part 2", "time": "5" },
+            { "video1": "Advanced JavaScript Part 3", "time": "6" }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "JavaScript ES6 Features",
+        "des": "An introduction to the new features of ES6.",
+        "color": "yellow-500",
+        "video": [
+            { "video1": "ES6 Part 1", "time": "6" },
+            { "video1": "ES6 Part 2", "time": "5" }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "React Basics",
+        "des": "Discussion on the basic concepts of React JS.",
+        "color": "blue-500",
+        "video": [
+            { "video1": "React Part 1", "time": "5" },
+            { "video1": "React Part 2", "time": "6" }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "React Components",
+        "des": "Learn how to create components in React.",
+        "color": "green-500",
+        "video": [
+            { "video1": "Components Part 1", "time": "7" },
+            { "video1": "Components Part 2", "time": "6" }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "JavaScript Arrays",
+        "des": "Detailed information about arrays in JavaScript.",
+        "color": "pink-500",
+        "video": [
+            { "video1": "Arrays Part 1", "time": "6" },
+            { "video1": "Arrays Part 2", "time": "5" }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "React State Management",
+        "des": "Learn the state management system in React.",
+        "color": "yellow-500",
+        "video": [
+            { "video1": "State Management Part 1", "time": "8" },
+            { "video1": "State Management Part 2", "time": "6" }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Node.js Introduction",
+        "des": "Introduction to Node.js and its usage.",
+        "color": "blue-500",
+        "video": [
+            { "video1": "Node.js Part 1", "time": "7" },
+            { "video1": "Node.js Part 2", "time": "5" }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Express.js Basics",
+        "des": "Discussion on the basic concepts of Express.js.",
+        "color": "green-500",
+        "video": [
+            { "video1": "Express Part 1", "time": "6" },
+            { "video1": "Express Part 2", "time": "4" }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "MongoDB Basics",
+        "des": "Basic concepts of MongoDB.",
+        "color": "pink-500",
+        "video": [
+            { "video1": "MongoDB Part 1", "time": "5" },
+            { "video1": "MongoDB Part 2", "time": "6" }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "CSS Transitions",
+        "des": "Learn how to create effects with CSS Transitions.",
+        "color": "green-500",
+        "video": [
+            { "video1": "Transitions Part 1", "time": "7" },
+            { "video1": "Transitions Part 2", "time": "5" }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "CSS Animations",
+        "des": "Bring your website to life with CSS Animations.",
+        "color": "pink-500",
+        "video": [
+            { "video1": "Animations Part 1", "time": "8" },
+            { "video1": "Animations Part 2", "time": "7" },
+            { "video1": "Animations Part 3", "time": "4" }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Full Stack Development",
+        "des": "Basic concepts of full-stack development.",
+        "color": "orange-500",
+        "video": [
+            { "video1": "Full Stack Part 1", "time": "7" },
+            { "video1": "Full Stack Part 2", "time": "8" }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "JavaScript Closures",
+        "des": "How JavaScript closures work.",
+        "color": "blue-500",
+        "video": [
+            { "video1": "Closures Part 1", "time": "6" },
+            { "video1": "Closures Part 2", "time": "5" }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "JavaScript Promises",
+        "des": "What are promises and how to use them.",
+        "color": "orange-500",
+        "video": [
+            { "video1": "Promises Part 1", "time": "7" },
+            { "video1": "Promises Part 2", "time": "5" }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Async Programming",
+        "des": "Asynchronous programming and async/await.",
+        "color": "green-500",
+        "video": [
+            { "video1": "Async Part 1", "time": "6" },
+            { "video1": "Async Part 2", "time": "7" }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "TypeScript Basics",
+        "des": "Introduction to TypeScript and its advantages.",
+        "color": "pink-500",
+        "video": [
+            { "video1": "TypeScript Part 1", "time": "5" },
+            { "video1": "TypeScript Part 2", "time": "6" }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "React Router",
+        "des": "Learn how to manage routes in a React application.",
+        "color": "yellow-500",
+        "video": [
+            { "video1": "Router Part 1", "time": "6" },
+            { "video1": "Router Part 2", "time": "5" }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "GraphQL Basics",
+        "des": "Introduction to GraphQL and its uses.",
+        "color": "green-500",
+        "video": [
+            { "video1": "GraphQL Part 1", "time": "5" },
+            { "video1": "GraphQL Part 2", "time": "6" }
+        ]
+    }
+]
